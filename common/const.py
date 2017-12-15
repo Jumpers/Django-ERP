@@ -1,7 +1,7 @@
 # coding=utf-8
 from django.db import connection
 from django.utils.translation import ugettext_lazy as _
-__author__ = 'zhugl'
+__author__ = 'shawn'
 
 DB_CHAR_CODE_2 = 2
 DB_CHAR_CODE_4 = 4

@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'zhugl'
+__author__ = 'shawn';
 # created at 15-4-21
 import datetime
 import xlwt
